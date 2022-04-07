@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-04-06T05:11:26.307Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="16.6.4" etag="w0ldXOF9kqlvDis5qiuN" type="github"><diagram id="Ysswuq1DkZUzGHWSxQ2m">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-07T09:59:29.330Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="WDECgCJy8mmJSxW4XhWg" version="16.6.4" type="github">
+  <diagram id="Ysswuq1DkZUzGHWSxQ2m" name="Page-1">
+    <mxGraphModel dx="1329" dy="834" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="FauOVO2CS7uMHVvbk2OX-7" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application_server;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="398.71" y="360.90000000000003" width="158.71" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FauOVO2CS7uMHVvbk2OX-4" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application_server;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="499.36" y="430" width="158.71" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FauOVO2CS7uMHVvbk2OX-6" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application_server;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="240" y="470.9" width="158.71" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FauOVO2CS7uMHVvbk2OX-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application_server;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="620" y="530" width="110" height="110.9" as="geometry" />
+        </mxCell>
+        <mxCell id="FauOVO2CS7uMHVvbk2OX-9" value="综合楼" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="490.9" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FauOVO2CS7uMHVvbk2OX-10" value="老车间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="448.06" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FauOVO2CS7uMHVvbk2OX-11" value="新车间" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="543.75" y="440.9" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FauOVO2CS7uMHVvbk2OX-12" value="综合办公楼" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="638.11" y="540" width="85" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="FauOVO2CS7uMHVvbk2OX-5" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;strokeWidth=1;align=center;outlineConnect=0;dashed=0;outlineConnect=0;shape=mxgraph.aws3d.application_server;fillColor=#ECECEC;strokeColor=#5E5E5E;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="340" y="540" width="158.71" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="FauOVO2CS7uMHVvbk2OX-13" value="设备楼" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="389.36" y="560" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
