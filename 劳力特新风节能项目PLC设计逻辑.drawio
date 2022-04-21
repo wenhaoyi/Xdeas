@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-21T05:44:14.014Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="HlmA1Y3jtFqka7MP8RYN" version="17.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-21T05:45:30.257Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="kwlVmtvrkEx3gnW34i56" version="17.4.0" type="github">
   <diagram id="HInJEvRqGOxn4rhsqnMk" name="Page-1">
     <mxGraphModel dx="1329" dy="1934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -10,43 +10,47 @@
         <mxCell id="upmaXBhPf4axASo1UPmq-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="upmaXBhPf4axASo1UPmq-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="400" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="340" y="400" />
+              <mxPoint x="340" y="200" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="upmaXBhPf4axASo1UPmq-3" value="室外传感器：&lt;br&gt;温度：数值&lt;br&gt;湿度：数值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="120" width="160" height="80" as="geometry" />
+          <mxGeometry x="120" y="360" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="upmaXBhPf4axASo1UPmq-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="upmaXBhPf4axASo1UPmq-7" target="upmaXBhPf4axASo1UPmq-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="upmaXBhPf4axASo1UPmq-7" value="空调：&lt;br&gt;空调开关状态：开关量&lt;br&gt;空调运行状态：枚举（数值）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="360" width="160" height="80" as="geometry" />
+          <mxGeometry x="120" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="upmaXBhPf4axASo1UPmq-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="upmaXBhPf4axASo1UPmq-11" target="upmaXBhPf4axASo1UPmq-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="upmaXBhPf4axASo1UPmq-11" value="新风：&lt;br&gt;新风开关状态：开关量&lt;br&gt;新风运行状态：枚举（数值）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="480" width="160" height="80" as="geometry" />
+          <mxGeometry x="120" y="120" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="upmaXBhPf4axASo1UPmq-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="upmaXBhPf4axASo1UPmq-12" target="upmaXBhPf4axASo1UPmq-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="upmaXBhPf4axASo1UPmq-12" value="室内传感器：&lt;br&gt;温度：数值&lt;br&gt;湿度：数值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" y="240" width="160" height="80" as="geometry" />
+          <mxGeometry x="120" y="480" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="upmaXBhPf4axASo1UPmq-13" value="输出信号" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="upmaXBhPf4axASo1UPmq-21" value="空调：&lt;br&gt;空调开关状态：开关量&lt;br&gt;空调运行状态：枚举（数值）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="360" width="160" height="80" as="geometry" />
+          <mxGeometry x="640" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="upmaXBhPf4axASo1UPmq-22" value="新风：&lt;br&gt;新风开关状态：开关量&lt;br&gt;新风运行状态：枚举（数值）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="640" y="480" width="160" height="80" as="geometry" />
+          <mxGeometry x="640" y="120" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="upmaXBhPf4axASo1UPmq-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="upmaXBhPf4axASo1UPmq-23" target="upmaXBhPf4axASo1UPmq-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="upmaXBhPf4axASo1UPmq-23" value="烟雾浓度传感器&lt;br&gt;警报信号：开关量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="120" width="160" height="80" as="geometry" />
+          <mxGeometry x="120" y="240" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="upmaXBhPf4axASo1UPmq-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="upmaXBhPf4axASo1UPmq-26" target="upmaXBhPf4axASo1UPmq-38">
           <mxGeometry relative="1" as="geometry">
@@ -71,7 +75,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="600" y="200" />
-              <mxPoint x="600" y="400" />
+              <mxPoint x="600" y="40" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -79,7 +83,7 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="600" y="200" />
-              <mxPoint x="600" y="520" />
+              <mxPoint x="600" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
