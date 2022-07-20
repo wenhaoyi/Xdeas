@@ -1,1 +1,259 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T01:23:15.782Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" version="20.1.2" etag="Nr2bkDR40zVHvkh1MgKB" type="github"><diagram id="Z0qa_OmY6vLXS2NNbrc9">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-20T01:25:06.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="pWX5kljmHRu86IvpPDjg" version="20.1.2" type="github">
+  <diagram id="Z0qa_OmY6vLXS2NNbrc9" name="Page-1">
+    <mxGraphModel dx="2485" dy="839" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="I84aqrfULUkoFMGQsXus-1" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="446.25" y="168.12" width="27.5" height="74.38" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-2" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="270" width="790" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-3" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/electronics-glyph-24/24/hair_dryer_blow_dryer_hair_heater_hair_styling_salon_electricals-128.png;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="160" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-4" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/electronics-glyph-24/24/hair_dryer_blow_dryer_hair_heater_hair_styling_salon_electricals-128.png;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="240" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-5" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/electronics-glyph-24/24/hair_dryer_blow_dryer_hair_heater_hair_styling_salon_electricals-128.png;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="320" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-6" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/electronics-glyph-24/24/hair_dryer_blow_dryer_hair_heater_hair_styling_salon_electricals-128.png;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="400" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-7" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/electronics-glyph-24/24/hair_dryer_blow_dryer_hair_heater_hair_styling_salon_electricals-128.png;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="480" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/electronics-glyph-24/24/hair_dryer_blow_dryer_hair_heater_hair_styling_salon_electricals-128.png;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="560" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/electronics-glyph-24/24/hair_dryer_blow_dryer_hair_heater_hair_styling_salon_electricals-128.png;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="640" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-10" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/electronics-glyph-24/24/hair_dryer_blow_dryer_hair_heater_hair_styling_salon_electricals-128.png;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="720" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/electronics-glyph-24/24/hair_dryer_blow_dryer_hair_heater_hair_styling_salon_electricals-128.png;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="800" y="340" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-12" value="燃烧器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="150" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-13" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="655" y="90" width="25" height="345" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-14" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="280" y="90" width="25" height="345" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-15" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-2/16/fan-128.png" vertex="1" parent="1">
+          <mxGeometry x="440" y="242.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-16" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="463.61" y="148.6" width="33.43" height="74.38" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-17" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="497.5" y="70" width="25" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-18" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-2/16/fan-128.png" vertex="1" parent="1">
+          <mxGeometry x="490" y="242.5" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="I84aqrfULUkoFMGQsXus-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="50" y="340" as="sourcePoint" />
+            <mxPoint x="750" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-20" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="260" width="150" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-21" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1" source="I84aqrfULUkoFMGQsXus-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-30" y="450" as="sourcePoint" />
+            <mxPoint x="50" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-22" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-39" y="282.5" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-23" value="热定型机自控系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-49" y="315" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-24" value="温度采集&lt;br&gt;燃烧控制系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="310" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-25" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-2/16/fan-128.png" vertex="1" parent="1">
+          <mxGeometry x="200" y="350" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-26" value="循环风机调控系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="420" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I84aqrfULUkoFMGQsXus-12" target="I84aqrfULUkoFMGQsXus-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="440" as="sourcePoint" />
+            <mxPoint x="280" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-28" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-2/16/fan-128.png" vertex="1" parent="1">
+          <mxGeometry x="280" y="350" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-29" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-2/16/fan-128.png" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-30" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-2/16/fan-128.png" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-31" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-2/16/fan-128.png" vertex="1" parent="1">
+          <mxGeometry x="520" y="350" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-32" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-2/16/fan-128.png" vertex="1" parent="1">
+          <mxGeometry x="600" y="350" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-33" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-2/16/fan-128.png" vertex="1" parent="1">
+          <mxGeometry x="680" y="350" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-34" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-2/16/fan-128.png" vertex="1" parent="1">
+          <mxGeometry x="760" y="350" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-35" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/bootstrap-vol-2/16/fan-128.png" vertex="1" parent="1">
+          <mxGeometry x="840" y="350" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-36" value="引风机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="425" y="282.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-37" value="引风机" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="480" y="282.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-38" value="引风机调控系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="260" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-39" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="607.5" y="200" width="92.5" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-40" value="1、烟气数据采集系统&lt;br&gt;2、火灾预警系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="607.5" y="222.98" width="72.5" height="57.02" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-41" value="云平台" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-65" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-42" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="I84aqrfULUkoFMGQsXus-20" target="I84aqrfULUkoFMGQsXus-41">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="200" y="460" as="sourcePoint" />
+            <mxPoint x="300" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="I84aqrfULUkoFMGQsXus-17" target="I84aqrfULUkoFMGQsXus-39">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="580" y="170" as="sourcePoint" />
+            <mxPoint x="660" y="160" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-44" value="氧含量，湿度，温度，一氧化碳等烟气传感器采集并且传输数据" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="110" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-45" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="860" y="60" width="15" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-46" value="燃气管道" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="837.5" y="110" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-47" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="870" y="212.5" width="52.5" height="102.5" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-48" value="燃气流量计数据采集系统" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="850" y="260" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-49" value="云平台" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-50" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.55;entryY=0.95;entryDx=0;entryDy=0;entryPerimeter=0;exitX=-0.01;exitY=0.093;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="I84aqrfULUkoFMGQsXus-47" target="I84aqrfULUkoFMGQsXus-49">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="360" as="sourcePoint" />
+            <mxPoint x="530" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="260" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-52" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="260" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-53" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="260" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="260" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-55" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="260" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-56" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="260" width="20" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-57" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="180" y="270" as="sourcePoint" />
+            <mxPoint x="250" y="180" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="230" y="270" />
+              <mxPoint x="180" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-58" value="N节烘箱：&lt;br&gt;湿度传感器&lt;br&gt;温度传感器&lt;br&gt;风风开合度&lt;br&gt;作用：定型机节能控制算法数据来源" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="120" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-59" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="130" as="sourcePoint" />
+            <mxPoint x="40" y="230" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="170" y="190" />
+              <mxPoint x="100" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-60" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.sun" vertex="1" parent="1">
+          <mxGeometry x="-260" y="182.5" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-61" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-190" y="210" as="sourcePoint" />
+            <mxPoint x="-53" y="110" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-100" y="190" />
+              <mxPoint x="-120" y="140" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-62" value="采集：环境温度、湿度、雨雪天气等&lt;br&gt;来源：气象网站&lt;br&gt;作用：根据环境因素做定型机控制算法" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="-279" y="123.9" width="240" height="58.6" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-63" value="导热油定型机、蒸汽加热定型机无此项，替代的是：&lt;br&gt;供热电动阀门控制，原理是根据烘箱的温度自动调节阀门的开合度，达到调节温度的目的" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="11" y="435" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-64" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="I84aqrfULUkoFMGQsXus-63">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="140" y="340" as="sourcePoint" />
+            <mxPoint x="310" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-65" value="导热油定型机、蒸汽加热定型机无此项，替代的是：&lt;br&gt;热量计数据采集系统，一般单台定型机需要加装此流量计" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="320" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-66" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="I84aqrfULUkoFMGQsXus-48" target="I84aqrfULUkoFMGQsXus-65">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1000" y="300" as="sourcePoint" />
+            <mxPoint x="1050" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I84aqrfULUkoFMGQsXus-67" value="喷淋前的位置&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="160" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
